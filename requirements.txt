@@ -1,0 +1,9 @@
+torch
+torchtext
+transformers
+nltk
+revtok
+FastBLEU
+numpy<=1.17.0 # POT is not campatible with last version of numpy
+cython
+POT
